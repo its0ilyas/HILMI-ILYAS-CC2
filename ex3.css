@@ -1,0 +1,35 @@
+label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 20px 657px;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+nav ul{
+    float: left;
+    background-color: blue;
+    padding: 20px 463px;
+}
+
+nav ul li{
+    display: inline;
+    line-height: 40px;
+}
+
+nav ul li a{
+    color: white;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+a.active,a:hover{
+    background: #53b0f8;
+    transition: .5s;
+    
+}
+nav ul form{
+    padding-right: 100%;
+}

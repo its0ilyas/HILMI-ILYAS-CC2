@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 0px 0px 10px rgb(255, 0, 0);}
+article>h2{
+    color: green;
+}
+h2+p{
+    color: blue;
+}
+img{
+    border-radius: 40%;
+}
